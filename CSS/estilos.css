@@ -128,7 +128,7 @@ nav a{
 
 /* VERSION MOVIL */
 
-@media screen and  (max-width:  4377px){
+@media screen and  (max-width:  767px){
     .btn_menu{
         display: flex;
     }
