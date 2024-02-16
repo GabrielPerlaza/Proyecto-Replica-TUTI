@@ -8,3 +8,13 @@
 <p>
   Se realizo una replica con motivos de practica y aprendizaje. La pagina no es exactamente igual, sin embargo, el objetivo es entender la organizacion de las cajas mediante el uso de la propiedad flex por medio de display. Esta propiedad permite mejor organizacion, sobre todo con objetivos de diseñar una version movil.
 </p>
+
+![image](https://github.com/GabrielPerlaza/Proyecto-Replica-TUTI/assets/122389457/a26fe3ec-5a32-4753-a305-daed47013dc8)
+<p>
+  Tiendas TUTI es un conglomerado de tiendas de tipo retailing perteneciente a Corporacion El Rosado. Locales que son bastantes populares debido al acceso economico que presentan sus productos. 
+</p>
+
+![image](https://github.com/GabrielPerlaza/Proyecto-Replica-TUTI/assets/122389457/4320a94a-d3d4-48e4-ac05-2fcc314a4582)
+
+
+
